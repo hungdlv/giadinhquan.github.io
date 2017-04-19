@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+.boxed-body {
+  padding: 0;
+  box-shadow: 0 0 5px #ccc;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  background-color:#ffffff;
+  background: url("background-pattern/pattern.png") repeat;
+}
+.boxed-body .wrapper{
+    background-color:#ffffff; 
+}
