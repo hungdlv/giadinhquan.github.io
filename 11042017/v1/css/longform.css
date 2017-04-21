@@ -2138,7 +2138,7 @@ blockquote .quote-by {
     width:18px;
     height:2px;
     display:inline-block;
-    background:#999
+    background:#fff;
 }
 .topbar .navbar-toggle .toggle-icon:before,.topbar .navbar-toggle .toggle-icon:after
 {
@@ -2146,7 +2146,7 @@ blockquote .quote-by {
     left:0;
     width:18px;
     height:2px;
-    background:#999;
+    background:#fff;
     content:" "
 }
 .topbar .navbar-toggle .toggle-icon:before
