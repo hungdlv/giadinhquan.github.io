@@ -9,8 +9,11 @@
 }
 @media screen and (max-width: 736px) {
     .wt-left{
-        left:10px!important;
+        left:5px!important;
         max-width:305px!important;
+    }
+    .section .warp-text{
+        width: 218px;
     }
 }
 @media screen and (min-width: 1280px) {
